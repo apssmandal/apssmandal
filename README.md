@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a ripple effect on any android view without using any library.](https://medium.com/animixer-studios/how-to-create-a-ripple-effect-on-any-android-view-without-using-any-library-ec2bc1315321?source=rss-fda8991c9058------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
