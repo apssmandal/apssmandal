@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://animixer.in/team/arpan](https://animixer.in/team/arpan)
 
-- ⚡ Fun fact **আমি বাঙালী**
+- ⚡ And yes, **আমি বাঙালী**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
