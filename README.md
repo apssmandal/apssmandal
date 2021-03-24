@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Send Firebase push notification from one android device to many devices.](https://medium.com/animixer-studios/send-firebase-push-notification-from-one-android-device-to-many-devices-92f51ef36609?source=rss-fda8991c9058------2)
 - [How to create a ripple effect on any android view without using any library.](https://medium.com/animixer-studios/how-to-create-a-ripple-effect-on-any-android-view-without-using-any-library-ec2bc1315321?source=rss-fda8991c9058------2)
 <!-- BLOG-POST-LIST:END -->
 
