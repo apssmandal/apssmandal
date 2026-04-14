@@ -27,37 +27,44 @@
 
 ### 🛠️ Tech Stack
 
-#### 📱 Mobile Development
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,firebase&theme=dark" />
-  </a>
+  <img src="https://cdn.simpleicons.org/android/%233DDC84" width="48" height="48" alt="Android" />
+  <img src="https://cdn.simpleicons.org/kotlin/%237F52FF" width="48" height="48" alt="Kotlin" />
+  <img src="https://cdn.simpleicons.org/oracle/%23F80000" width="48" height="48" alt="Java" />
+  <img src="https://cdn.simpleicons.org/flutter/%2302569B" width="48" height="48" alt="Flutter" />
+  <img src="https://cdn.simpleicons.org/firebase/%23FFCA28" width="48" height="48" alt="Firebase" />
 </p>
 
 #### 🌐 Full Stack Web
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,mysql,php&theme=dark" />
-  </a>
+  <img src="https://cdn.simpleicons.org/react/%2361DAFB" width="48" height="48" alt="React" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/%23339933" width="48" height="48" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/javascript/%23F7DF1E" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5/%23E34F26" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/%231572B6" width="48" height="48" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/mongodb/%2347A248" width="48" height="48" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/mysql/%234479A1" width="48" height="48" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/php/%23777BB4" width="48" height="48" alt="PHP" />
 </p>
 
 #### 🤖 RPA & Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6000?style=for-the-badge&logo=automationanywhere&logoColor=white" />
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Power%20Platform-0078D4?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white" />
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,aws,gcp&theme=dark" />
-  </a>
+  <img src="https://cdn.simpleicons.org/automationanywhere/%23FF6000" width="48" height="48" alt="Automation Anywhere" />
+  <img src="https://cdn.simpleicons.org/uipath/%23FA4616" width="48" height="48" alt="UiPath" />
+  <img src="https://cdn.simpleicons.org/microsoftpowerplatform/%230078D4" width="48" height="48" alt="MS Power Platform" />
+  <img src="https://cdn.simpleicons.org/python/%233776AB" width="48" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/linux/%23FCC624" width="48" height="48" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/gnubash/%234EAA25" width="48" height="48" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/amazons3/%23569A31" width="48" height="48" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/googlecloud/%234285F4" width="48" height="48" alt="GCP" />
 </p>
 
 #### 🧠 AI & Design
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,figma,xd,photoshop&theme=dark" />
-  </a>
+  <img src="https://cdn.simpleicons.org/tensorflow/%23FF6F00" width="48" height="48" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/figma/%23F24E1E" width="48" height="48" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/adobexd/%23FF61F6" width="48" height="48" alt="Adobe XD" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/%2331A8FF" width="48" height="48" alt="Photoshop" />
 </p>
 
 ---
@@ -65,12 +72,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apssmandal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apssmandal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apssmandal&show_icons=true&locale=en&theme=dark" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apssmandal&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apssmandal&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apssmandal&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
 ---
