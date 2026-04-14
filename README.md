@@ -75,12 +75,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apssmandal&show_icons=true&locale=en&layout=compact&theme=default&bg_color=ffffff&title_color=1a1a2e&text_color=333333&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apssmandal&show_icons=true&locale=en&theme=default&bg_color=ffffff&title_color=1a1a2e&text_color=333333&icon_color=0078D4&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apssmandal&theme=default&background=ffffff&ring=0078D4&fire=FF6000&currStreakLabel=1a1a2e&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apssmandal&theme=default&background=ffffff&ring=0078D4&fire=FF6000&currStreakLabel=1a1a2e&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
