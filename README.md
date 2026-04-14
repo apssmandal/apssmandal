@@ -21,7 +21,7 @@
 - 💬 Ask me about **Android Architecture, UI/UX, or Automation**
 - 📫 Reach me at: **arpan.mandal@animixer.in**
 - 📄 Curated experiences: **[animixer.in/team/arpan](https://animixer.in/team/arpan)**
-- ⚡ **আমি বাঙালী** 🇧🇩🇮🇳
+- ⚡ **আমি বাঙালী**
 
 ---
 
