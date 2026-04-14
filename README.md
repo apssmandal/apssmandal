@@ -29,45 +29,45 @@
 
 #### 📱 Mobile Development
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" title="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=android" height="48" alt="Android" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" />
 </p>
 
 #### 🌐 Full Stack Web
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
 </p>
 
 #### 🤖 RPA & Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Automation Anywhere" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+  <img src="https://img.shields.io/badge/Power%20Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Platform" />
 </p>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" title="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" title="GCP" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="GCP" />
 </p>
 
 #### 🧠 AI & Design
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="48" height="48" alt="Adobe XD" title="Adobe XD" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" title="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=xd" height="48" alt="Adobe XD" />
+  <img src="https://skillicons.dev/icons?i=ps" height="48" alt="Photoshop" />
 </p>
 
 ---
