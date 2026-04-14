@@ -12,8 +12,6 @@
 <a href="https://instagram.com/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apssmandal" height="30" width="40" /></a>
 <a href="https://dribbble.com/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="apssmandal" height="30" width="40" /></a>
 <a href="https://medium.com/@apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@apssmandal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apssmandal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@apssmandal" height="30" width="40" /></a>
 </p>
 </div>
 
