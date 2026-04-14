@@ -4,10 +4,17 @@
   <h1>Hi 👋, I'm Arpan Mandal</h1>
   <h3>Passionate Android & Full Stack Developer | RPA Specialist | AI Enthusiast</h3>
   
-  <p align="center">
-    <a href="https://twitter.com/apssmandal" target="blank"><img src="https://img.shields.io/twitter/follow/apssmandal?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="twitter" /></a>
-    <a href="https://linkedin.com/in/apssmandal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="linkedin" /></a>
-  </p>
+  
+<p align="center">
+<a href="https://twitter.com/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apssmandal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apssmandal" height="30" width="40" /></a>
+<a href="https://fb.com/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apssmandal" height="30" width="40" /></a>
+<a href="https://instagram.com/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apssmandal" height="30" width="40" /></a>
+<a href="https://dribbble.com/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="apssmandal" height="30" width="40" /></a>
+<a href="https://medium.com/@apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@apssmandal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apssmandal" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@apssmandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@apssmandal" height="30" width="40" /></a>
+</p>
 </div>
 
 ---
