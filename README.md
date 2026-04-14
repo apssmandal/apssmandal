@@ -29,7 +29,7 @@
 
 #### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android" height="48" alt="Android" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
@@ -66,7 +66,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=xd" height="48" alt="Adobe XD" />
   <img src="https://skillicons.dev/icons?i=ps" height="48" alt="Photoshop" />
 </p>
 
