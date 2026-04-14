@@ -30,14 +30,14 @@
 #### 📱 Mobile Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,firebase&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,firebase&theme=dark" />
   </a>
 </p>
 
 #### 🌐 Full Stack Web
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,mysql,php&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,mysql,php&theme=dark" />
   </a>
 </p>
 
@@ -49,14 +49,14 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,aws,gcp&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,aws,gcp&theme=dark" />
   </a>
 </p>
 
 #### 🧠 AI & Design
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,figma,xd,ps&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,figma,xd,photoshop&theme=dark" />
   </a>
 </p>
 
@@ -65,11 +65,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apssmandal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apssmandal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apssmandal&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apssmandal&show_icons=true&locale=en&theme=dark" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apssmandal&theme=tokyonight" alt="Streak" />
 </p>
 
