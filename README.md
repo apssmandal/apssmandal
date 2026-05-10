@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently building **[Free Forms](https://freeforms-app.web.app/)**
+- 🔭 I'm currently building **[Free Forms](https://freeforms-app.web.app/)** & **[SMCC Jadavpur University](https://smccju.in/)**
 - 🤝 Proud member of team **[Animixer](https://animixer.in)**
 - 👨‍💻 Discover my projects at **[animixer.in/projects](https://animixer.in/projects)**
 - 📝 Sharing my thoughts on **[blogs.animixer.in](https://blogs.animixer.in/)**
